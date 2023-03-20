@@ -1,0 +1,17 @@
+Algoritmo 1 
+    1. Ler a primeira nots (Mandar mensagem p/ usuario e ler )
+    2. Ler a segunda nota;
+    3. Calcular a média das notas;
+    4. Mostra a média calculada;
+    5. Informar o total de aulas
+    5. Ler a frequencia em %;
+    6. Digite o numero de faltas do aluno;
+    7. Calcular a % de frequencia;
+    8. Mostrar a porcentagem de frequencia;
+    9. Verificar se (media>=50 e frequencia>=75%)
+    {
+        entao Aluno Aprovado
+    } 
+    Senao {
+        entao aluno Reprovado
+    }
